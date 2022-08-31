@@ -1,4 +1,4 @@
-#Crypto Website front-end
+# Crypto Website front-end
 
 Este es proyecto final del curso de html y css de OpenbootCamp. 
 Está realizado con html, css, sass y bootstrap.
